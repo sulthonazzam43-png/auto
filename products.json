@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "VIP 1 Bulan",
+    "price": 15000,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "VIP 3 Bulan",
+    "price": 40000,
+    "stock": 5
+  }
+]

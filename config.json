@@ -1,0 +1,10 @@
+{
+  "bot_token": "8138509424:AAGQjr8FWEJ5dbVUVoJlYAxOGaX67QerYp4",
+  "admin_id": 7837260212,
+  "store_name": "Kyu Store",
+  "admin_username": "kyuadmin",
+  "dana_number": "083176597242",
+  "qris_image": "https://files.catbox.moe/6tiqza.jpg",
+  "click_cooldown_sec": 5,
+  "typing_delay_ms": 700
+}
